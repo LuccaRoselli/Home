@@ -1,0 +1,12 @@
+#Coloque aqui sua licença
+Licenca: '0000-0000-0000'
+MySQL:
+  enable: false
+  user: root
+  senha: 123
+  host: localhost
+  porta: 3306
+  database: Minecraft
+blacklist_worlds:
+- 'Eventos'
+- 'Spawn'

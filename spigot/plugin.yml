@@ -1,0 +1,10 @@
+main: com.devlucca.homes.Main
+name: yHomes
+version: 0.1
+author: Lucca
+commands:
+  home:
+    aliases: [homes]
+  delhome:
+  sethome:
+  publica:
